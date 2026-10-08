@@ -1,6 +1,0 @@
-streamlit
-pandas
-openpyxl
-Pillow
-pyzbar
-psycopg2-binary
